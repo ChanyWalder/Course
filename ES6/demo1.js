@@ -1,4 +1,4 @@
-console.table("hello")
+console.table("hello fddsf")
 
 let x=()=>{
     return "sss"
